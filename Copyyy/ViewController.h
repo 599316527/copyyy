@@ -9,6 +9,9 @@
 #import <Cocoa/Cocoa.h>
 
 @interface ViewController : NSViewController
+@property (unsafe_unretained) IBOutlet NSTextView *textView;
+@property (weak) IBOutlet NSButton *SelectAllButton;
+@property (weak) IBOutlet NSButton *ClearAllButton;
 
 
 @end

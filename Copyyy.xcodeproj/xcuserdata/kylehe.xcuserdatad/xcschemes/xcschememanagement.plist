@@ -4,10 +4,23 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Copyyy-Production-Build.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Copyyy.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5F4BBF0C20B9C8CA00E4697A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

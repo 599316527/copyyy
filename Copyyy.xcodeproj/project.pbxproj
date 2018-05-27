@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5F08109F20BA9B5E00F120C8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5F4BBF0D20B9C8CA00E4697A /* Copyyy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Copyyy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F4BBF1020B9C8CA00E4697A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		5F4BBF1120B9C8CB00E4697A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		5F4BBF0420B9C8CA00E4697A = {
 			isa = PBXGroup;
 			children = (
+				5F08109F20BA9B5E00F120C8 /* README.md */,
 				5F4BBF0F20B9C8CA00E4697A /* Copyyy */,
 				5F4BBF0E20B9C8CA00E4697A /* Products */,
 			);
